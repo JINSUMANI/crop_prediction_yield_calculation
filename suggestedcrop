@@ -1,0 +1,20 @@
+Crop,Suggested
+Arecanut,"Banana, Black Pepper, Pineapple"
+Banana,"Coconut, Arecanut, Dry Ginger, Turmeric"
+Black pepper,"Coconut, Arecanut"
+Cardamom,Arecanut
+Cashewnut,"Tapioca,Turmeric, Dry Ginger"
+Coconut ,"Banana, Black Pepper, Pineapple"
+Drum Stick,"Coconut,Papaya"
+Dry ginger,Turmeric
+Jowar,Sesamum
+Mango,"Turmeric, Papaya, Coconut"
+Papaya,"Mango, Banana, Coconut"
+Pineapple,"Coconut, Rice"
+Ragi,Rice
+Rice,"Sesamum,Ragi"
+Sesamum,Jowar
+Sugarcane,Sweet Potato
+Sweet potato,Tapioca
+Tapioca,Sweet Potato
+Turmeric,Dry Ginger
